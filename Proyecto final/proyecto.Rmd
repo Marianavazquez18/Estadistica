@@ -1,0 +1,1251 @@
+---
+title: "Proyecto final"
+date: "2024-01-17"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Estrategias recreativas empleadas por el profesorado, que favorecen el aprendizaje permanente en el campo formativo: Saberes y Pensamiento Científico en 5º grado de educación primaria.
+
+
+Autores:
+
+Dara Isi Hernández Villanueva
+
+Melanie Cruz Camacho
+
+Juan Yoel Domínguez Murillo
+
+Mariana Vazquez Rivera
+
+
+## Introducción
+
+El presente trabajo de investigación se realizó con la intención de indagar y 
+analizar que estrategias recreativas que favorecen el aprendizaje permanente en 
+el alumnado, son implementadas por el profesorado de 5to grado de primaria dentro
+del campo formativo: saberes y pensamiento científico, partiendo desde la 
+descripción de sus conocimientos y experiencias sobre dicho tema a través de la 
+practica frente a grupo, y tomando en cuenta los nuevos enfoques pedagógicos y 
+formas de trabajo de los planes y programas de la nueva escuela mexicana (NEM). 
+La investigación realizada recolecto las opiniones de los maestros participantes 
+de las escuelas donde se han llevado a cabo las jornadas de práctica, las cuales 
+son la escuela primaria “Lázaro Cárdenas del Río” en Banderilla y la escuela 
+“Emiliano Zapata” ubicada en Xalapa.
+
+La presentación abordará las siguientes etapas de nuestra investigación: 
+planteamiento del problema, justificación, objetivo general y objetivos 
+específicos, pregunta de investigación, marco teórico, marco metodológico, el 
+análisis de resultados, conclusiones y referencias.
+
+## Planteamiento del problema
+
+Debido al reciente  cambio del plan y programa de estudios en la educación básica
+llamado Nueva Escuela Mexicana, han surgido inquietudes respecto a cómo se 
+implementará el uso de estrategias recreativas dentro del aula en el campo 
+formativo de Saberes y Pensamiento Científico en 5° grado de primaria. Por ello, 
+el presente estudio, tiene como propósito indagar algunos aspectos 
+teórico-metodológicos que favorecen el aprendizaje permanente dentro del proceso 
+de enseñanza-aprendizaje que señalan tanto el plan analítico como el plan 
+sintético de la Nueva Escuela Mexicana (NEM). 
+El aprendizaje permanente es un constructo referencial del  nuevo plan y programa
+de estudio que se estará implementando en la educación básica, SEP (2023) afirma 
+“La orientación de la NEM, adecuará los contenidos y replanteará las actividades 
+en el aula para alcanzar la premisa de aprender a aprender de por vida”, lo que 
+se plantea es promover un aprendizaje relevante y permanente para la vida del 
+estudiantado, el cual le permita desarrollarse dentro de una sociedad, a partir 
+de contenidos curriculares que se relacionen con el contexto que los rodea, así 
+como fomentar la aplicación de lo aprendido en problemas reales de su vida y que 
+porten a la mejora de su comunidad.
+Según Ausubel (1963) “El aprendizaje permanente está centrado en el contexto 
+educativo, donde se adquieren nuevos conocimientos relacionando nueva información
+con lo que ya se sabe, manejando como esencia la motivación para lograr la 
+atención de los educandos”.
+Por lo tanto nuestro interés se centra en identificar si una de las estrategias 
+con que se puede lograr este aprendizaje permanente es con el uso de actividades 
+recreativas que propicien la motivación en los alumnos, al mismo tiempo que 
+fomenten un aprendizaje tanto colaborativo como personal .
+Una categoría que nos interesa investigar es, ¿qué tan favorable es el uso de 
+estrategias recreativas dentro del aula y que beneficios tiene en el desarrollo 
+del estudiantado?.
+Las estrategias de aprendizaje recreativas tienen que permitir que los alumnos 
+con mayor o menor capacidad intelectual logren un objetivo específico, por lo 
+cual la tarea del profesorado es hacer que todos desarrollen estrategias propias 
+para obtener un mayor y mejor rendimiento dentro del aula.
+Otra de las categorías que nos interesa investigar es, si se emplearán 
+estrategias recreativas para abordar los temas asignados al campo formativo en 
+mención, esto debido al desconocimiento que se tiene sobre el tipo de estrategias
+o metodologías que se emplearán para desarrollar los temas en el nuevo plan y 
+programa de estudios (NEM).                                       
+ El significado de recursos educativos didácticos se le ha llamado de diversos 
+modos, como es: apoyos didácticos, recursos didácticos, medios educativos. Según 
+Morales (2012), se entiende por recurso didáctico al conjunto de medios 
+materiales que intervienen y facilitan el proceso de enseñanza-aprendizaje. Estos
+materiales pueden ser tanto físicos como virtuales, asumen como condición, 
+despertar el interés de los estudiantes, adecuarse a las características físicas 
+y psíquicas de los mismos, además que facilitan la actividad docente al servir de
+guía; asimismo, tienen la gran virtud de adecuarse a cualquier tipo de contenido.
+Es por ello que en nuestra investigación buscamos definir qué estrategias 
+didácticas se implementarán para complementar los contenidos del libro de texto 
+“Saberes y pensamiento científico”.
+Según Padrón (2009), “En el desarrollo de los materiales surge un grupo de 
+interrogantes que las herramientas de autoría con que contamos actualmente son 
+incapaces de resolver”. Estas cuestiones básicamente son: dónde localizar los 
+contenidos más apropiados para el material que se está desarrollando, cómo 
+recuperar dichos contenidos, cuáles son los criterios más indicados para 
+seleccionar los contenidos, cómo integrar estos contenidos en el material, cuándo
+y cómo controlar la coherencia, completitud y precisión de los contenidos 
+seleccionados o cómo asegurar el carácter reutilizable del material tomando en 
+cuenta la naturaleza reutilizable de sus componentes y considerando la 
+importancia de disponer de anotaciones semánticas sobre las propiedades del 
+material y acerca de las razones y justificaciones de su desarrollo, de manera 
+que sea posible la localización, recuperación y reutilización del material en 
+situaciones instructivas similares.
+
+
+## Justificación
+
+Los niños de entre 6 a 12 años de edad que cursan la educación primaria se 
+encuentran en un proceso de adquisición de conocimientos y aprendizaje que les 
+van a servir a lo largo de su vida y durante esa etapa se debe de fomentar el 
+desarrollo de habilidades de destrezas motrices, intelectuales, sociales, 
+cognitivas, etc., ya que, durante esa etapa los niños se encuentran en un periodo
+de desarrollo en el cual las actividades recreativas toman un papel importante 
+dentro de ella.
+Las escuelas formadoras de docentes en méxico, tienen el encargo que los docentes
+estén capacitados para ofrecer a los alumnos los recursos y estrategias 
+necesarias para el desarrollo de sus conocimientos, esto por medio del juego, ya 
+que estos contribuyen no solo en la diversión y motivación, si no en la 
+recuperación de información necesaria según lo que se esté trabajando.
+Es importante mencionar que el punto principal de la investigación es recabar 
+información  sobre las estrategias recreativas que serán empleadas por los 
+docentes de 5to grado de las escuelas primarias de acuerdo al nuevo plan y 
+programa de estudios, tomando en cuenta que estas ayuden al fortalecimiento del 
+aprendizaje permanente de los alumnos esto dentro del campo formativo: saberes y 
+pensamiento científico, ya que como futuros docentes debemos reconocer la 
+diversidad de formas con las que podemos lograr esto en el alumnado, sabemos que 
+los alumnos pueden desarrollar conocimientos y habilidades dentro de un ambiente 
+de juego con un propósito educativo, esto mediante el uso de distintas 
+estrategias recreativas para consolidar los contenidos.
+Por otra parte, la importancia que está investigación tiene dentro de la 
+sociedad, es que al ser un problema que parte de lo educativo hace que esté 
+involucrada una parte de la sociedad en específico y que para ella es relevante 
+para poder conocer la importancia de las estrategias recreativas dentro del 
+ámbito escolar. 
+En este caso, Rodríguez (2016) expresa que, para lograr aprendizajes superiores, 
+es necesario poner en práctica el juego como estrategia dentro del aula, ya que 
+proporciona a los alumnos habilidades que le permiten explorar realidades nuevas.
+De modo que los estudiantes vean el aprendizaje más atractivo, por lo que los 
+docentes deben renovar estrategias en los procesos de enseñanza-aprendizaje de 
+los estudiantes. Gracias a esto podemos saber porque es importante  que las 
+personas dentro del ámbito educativo conozcan que el uso de estas actividades 
+pueden lograr un aprendizaje significativo en sus alumnos y al mismo tiempo lo 
+puedan visualizar gracias a los resultados de la investigación.
+En el ámbito académico (Gonzáles, 2012)  plante que la vivencia de actividades 
+recreativas ayuda a que las y los estudiantes se sientan realizados, se conozcan 
+a sí mismos, se identifiquen como grupo, y además que se sientan físicamente 
+mejor porque reír y jugar, los ayuda a escaparse de la rutina, a manejar la 
+frustración y a recuperar el equilibrio de la vida, ante tal experiencia se 
+encuentra o se construye un sentido de vida. Por su parte Díaz Barriga (2020) nos
+dice que “el relacionarse en forma libre con su entorno, debiendo resolver 
+autónomamente los diferentes retos o desafíos que este le pone, favorece el 
+desarrollo de la imaginación, creatividad y memoria, junto con la concentración y
+atención. Así también contribuye a fortalecer la noción de sana competencia y 
+tolerancia a la frustración”
+Es por ello que principalmente en el campo formativo; Saberes y Pensamiento 
+Científico, al prestarse más para la interacción con el medio, nos proporciona 
+mejores resultados si se usan las estrategias recreativas adecuadas para el 
+desarrollo de las diferentes habilidades, que impactan de manera directa con los 
+demás campos formativos presentes en la NEM. Así mismo crea confianza en el 
+alumnado, los hace estar en constante cambio y además hace que tengan una mejor 
+disposición y actitud ya que derivado de su edad lo que les llama la atención es 
+jugar, de esta manera nosotros como docentes en formación debemos de saber, cómo 
+adecuar las actividades para hacerlas atractivas a los alumnos, mediante diversas
+estrategias, creando un ambiente favorable de aprendizaje para todos, y que no 
+digan “la escuela es aburrida”.
+La investigación es importante para nosotros dado que como maestros en formación 
+de la Licenciatura en Educación Primaria es indispensable que busquemos 
+alternativas para el aprendizaje del estudiantado que permitan crear un ambiente 
+de aprendizaje dinámico dentro del aula, según UNICEF (2018), “El juego sienta 
+las bases para el desarrollo de conocimientos y competencias sociales y 
+emocionales clave. A través del juego, los niños aprenden a forjar vínculos con 
+los demás, y a compartir, negociar y resolver conflictos, además de contribuir a 
+su capacidad de autoafirmación.”, a través del juego se refuerzan aprendizajes 
+que le sirven al alumno en otros ámbitos de su vida y no únicamente se favorece 
+un aprendizaje académico, se forman alumnos de manera integral tomando en cuenta 
+otros aspectos de su vida reconociendo sus necesidades individuales promocionando
+el desarrollo de habilidades socio emocionales, cognitivas, físicas, asertivas, 
+etc. 
+
+
+## Objetivo general
+
+Investigar los aspectos teórico-prácticos sobre el uso de estrategias recreativas
+que favorecen el aprendizaje permanente en el campo formativo de Saberes y 
+Pensamiento Científico mediante el análisis del plan analítico y sintético de la 
+Nueva Escuela Mexicana que permita la recopilación y clasificación de dichas 
+estrategias desde la perspectiva del profesorado de 5° grado de primaria, durante
+el semestre “A” del ciclo escolar 2023-2024.
+
+## Objetivos específicos
+
+ 1. Indagar los aspectos teóricos que implican el uso de estrategias recreativas 
+ mediante la recopilación y clasificación de estrategias utilizadas por parte del
+ profesorado que favorecen el aprendizaje permanente en 5° grado de primaria.
+ 2. Analizar los aspectos prácticos en el uso de estrategias recreativas mediante
+ la recopilación y clasificación de estrategias utilizadas por parte del 
+ profesorado que favorecen el aprendizaje permanente en 5° grado de primaria.
+ 3. Identificar los beneficios que trae consigo el uso de estrategias recreativas
+ para el aprendizaje permanente en el desarrollo académico del estudiantado de 5°
+ grado de primaria.
+
+## Preguntas de investigación
+
+ 1. ¿Qué estrategias recreativas implementadas por el docente favorecen el 
+ aprendizaje permanente dentro del campo formativo; Saberes y Pensamiento 
+ Científico en 5° grado de primaria?
+ 2. ¿Qué son las estrategias recreativas?
+ 3. ¿Qué habilidades favorecen las estrategias recreativas en niños de primaria?
+ 4. ¿Qué es el aprendizaje permanente?
+ 5. ¿Cómo se desarrolla el aprendizaje permanente en la educación primaria?
+ 6. ¿Qué tan favorable es el uso de estrategias recreativas dentro del aula?
+ 7. ¿Qué beneficios tiene en el desarrollo del estudiantado?
+ 8. ¿Comó se favorece el aprendizaje permanente con el uso de estrategias 
+ recreativas? 
+
+
+## Marco teórico
+
+## Las estrategias recreativas son una oportunidad dentro del aula.
+
+### 2.1 Las estrategias recreativas y la NEM.
+
+Las estrategias recreativas son aquellas que como docentes realizamos con un 
+propósito en específico, entre ellos puede ser la diversión o entretenimiento y 
+estas también pueden ayudarnos a aprender nuevos conocimientos, desarrollar 
+habilidades y a su vez podemos imaginar, sentir y hasta cambiar el estado de 
+ánimo.
+Franco y Sánchez (2019) indican que el juego constituye una estrategia necesaria 
+para propiciar aprendizajes, ello indica que el docente debe promover e 
+incentivar en el aula como metodología de perfeccionamiento.
+Para el aprendizaje de los estudiantes es necesario tener en cuenta, la acción, 
+el movimiento y esto se da a través de las estrategias recreativas. En cuanto a 
+esto, García et al. (2017) sostienen que los juegos en el aula de clase aumentan 
+la capacidad de resolver las actividades de aprendizaje de las diferentes áreas 
+curriculares.. De esta manera, los docentes cumplen un rol muy importante en el 
+aprendizaje de los estudiantes, aplicando las estrategias recreativas como 
+estrategia en el proceso de formación académica.
+Como parte importante de la educación tenemos planes de estudio los cuales están 
+hechos para organizar y orientar el trabajo pedagógico en las aulas de clases y 
+en donde podemos encontrar los objetivos de aprendizaje que se esperan lograr con
+los alumnos. Debido al reciente cambio de los planes y programas de estudios este
+nuevo ciclo escolar se implementó la Nueva Escuela Mexicana.
+
+**2.1.1 La NEM.**
+
+La SEMS (2017) para cada nivel y tipo educativo se tendrán que definir las formas
+en las que se adaptarán los elementos sustantivos del art. 3º en cuanto a 
+contenidos, pedagogía y estrategias didácticas, adecuados a las características 
+del grupo de edad que le corresponda.
+La orientación de la NEM, adecuará los contenidos y replanteará la actividad en 
+el aula para alcanzar la premisa de aprender a aprender de por vida.
+Algunos principios orientadores para el diseño y la selección de estrategias son los siguientes.
+
+
+- Ponderar la experiencia docente y la reflexión sobre la práctica para el diseño y selección de estrategias metodológicas.
+- Cosiderar estrategias sustentadas en metodologías activas y participativas, que dinamicen el trabajo en el aula y que favorezcan la experimentación y tengan en cuenta la perspectiva socioafectiva. 
+- Fomentar el aprendizaje colaborativo en tanto construcción colectiva de conocimientos que llevan a cabo personas a partir de distintas fuentes de información mediante estrategias de trabajo en equipo, reflexión, intercambio de opiniones, participación, articulación de ideas de manera oral y por escrito, retroalimentación, y que tiene en la mira construir nuevos significados y edificar un saber social plural, informado, responsable y ético, que se proyecta socialmente.
+- Promover pausas activas; momentos insertos en la jornada escolar, dirigidos al involucramiento del movimiento corporal y la ejercitación mental de las y los estudiantes, maestras y maestros, con el fin de enfocar la atención, mantener la continuidad de la actividad, relajarse, poniendo en juego el cuerpo y los sentidos.
+- Potenciar la autonomía en el aprendizaje de las y los estudiantes.
+- Vincular las estrategias pertinentes al tipo de contenido que se quiere trabajar y al nivel de profundidad que se pretende lograr.
+- Propiciar formas de interacción entre las y los estudiantes que relacionen contenido, actividades y formas de valoración, en las que se incorporen las artes y lo lúdico.
+- Seleccionar materiales, recursos, tecnologías de la información y la comunicación, y organizar el espacio del aula, de acuerdo con los contenidos y las formas de participación que se espera de las y los estudiantes.
+- Contextualizar las actividades en el entorno de las y los estudiantes —familia, comunidad inmediata, región— y vincularlos en el mismo establecimiento escolar o con otros —de la misma comunidad, de la región, del país—.
+
+**2.1.2 Plan y programa 2017.**
+
+Según SEP (2017)  este plan La escuela, al igual que los espacios de interacción
+de la comunidad científica, debe de ser un lugar para el desarrollo, aplicación,
+evaluación y difusión del conocimiento, acordes al nivel cognitivo de los 
+alumnos. En este sentido, la promoción de la actividad científica escolar implica
+transitar entre las explicaciones de sentido común y el conocimiento científico 
+escolar. Los alumnos llegan a la escuela con saberes y con sus propios modelos 
+explicativos acerca de los fenómenos y procesos naturales que, por lo general, es necesario reconstruir. Por tanto, es importante diversificar las formas de 
+revelar lo que saben los estudiantes y aprovecharlo, esto puede hacerse mediante
+el planteamiento y discusión de preguntas abiertas y productivas, el uso de un 
+formulario KPSI y la prueba de asociación de palabras, entre otras, que en sí 
+mismas también podrán ser útiles para la evaluación y la autoevaluación al 
+contrastarlas con lo que se aprendió después del estudio.
+Planificar las actividades organizadas en secuencias didácticas o proyectos con 
+la perspectiva de buscar respuestas desde la indagación para la resolución de 
+problemas requiere:
+
+
+- Trascender de enseñar a resolver problemas, a resolver problemas para 
+ aprender. 
+- Elegir problemas abiertos, de amplio componente cualitativo, con implicaciones
+ sociales, propios del contexto local, analizables desde diversos puntos de
+ vista.
+- Promover la comunicación. 
+- Alternar y complementar el trabajo individual y grupal. 
+- Construir progresiones de aprendizaje. 
+- Dar espacio y tiempo suficiente al desarrollo de procesos cognitivos de alta 
+ complejidad, como inferir, deducir, explicar, argumentar, formular hipótesis y 
+ mostrar evidencias. 
+- Hacer patente la naturaleza de la ciencia como un proceso social dinámico, conalcances y limitaciones, en constante actualización e interacción permanente con la tecnología, a partir de debates, argumentaciones, reflexiones y el análisis de algunos acontecimientos históricos en contraste con los actuales y la permanente aplicación del escepticismo informado.
+- Considerar las inquietudes estudiantiles manifiestas durante el desarrollo de las actividades como fuente de temas de interés para el desarrollo de proyectos.
+- Aprovechar todos los recursos y materiales didácticos disponibles, como el 
+ propio cuerpo humano, el entorno escolar, los libros de las Bibliotecas escolar
+ y de aula, videos, fotografías, imágenes, notas de periódico, revistas de 
+ divulgación científica, mapas, gráficas, tablas, interactivos, simuladores, 
+ páginas electrónicas de instituciones públicas, entre otros, con diferentes
+ fines didácticos.
+
+**2.1.3 Plan y programa 2011(RIEB).**
+
+Según SEP (2011) este plan, en las para las ciencias, se orienta a dar a los alumnos una formación científica básica a partir de una metodología de enseñanza que permita mejorar los procesos de aprendizaje; este enfoque demanda:
+
+
+- Abordar los contenidos desde contextos vinculados a la vida personal, cultural y social de los alumnos, con el fin de que propicien la identificación de la relación entre la ciencia, el desarrollo tecnológico y el ambiente.
+- Estimular la participación activa de los alumnos en la construcción de sus conocimientos  científicos, aprovechando sus saberes y replanteándolos cuando sea necesario.
+- Desarrollar de manera integrada los contenidos desde una perspectiva científica a lo largo de la Educación Básica, con el fin de contribuir al desarrollo de las competencias para la vida, al perfil de egreso y a las competencias específicas de la asignatura.
+- Promover la visión de la naturaleza de la ciencia como construcción humana, cuyos alcances y explicaciones se actualizan de manera permanente.
+
+Las estrategias que se mencionan para el desarrollo de habilidades son:
+
+- Búsqueda, selección y comunicación de información.
+- Uso y construcción de modelos.
+- Formulación de preguntas e hipótesis.
+- Análisis e interpretación de datos.
+- Observación, medición y registro.
+- Comparación, contrastación y clasificación.
+- Establecimiento de relación entre datos, causas, efectos y variables.
+- Elaboración de inferencias, deducciones, predicciones y conclusiones.
+- Diseño experimental, planeación, desarrollo y evaluación de investigaciones.
+- Identificación de problemas y distintas alternativas para su solución.
+- Manejo de materiales y realización de montajes
+
+### 2.2. Estrategias recreativas para fomentar un aprendizaje permanente en el estudiantado.
+
+Las estrategias recreativas son un concepto actual que se está trabajando en la 
+educación como herramienta que encamina al alumnado hacia el aprendizaje, se 
+debe mencionar que el juego, desde hace muchos años atrás ya se consideraba una 
+herramienta importante en lo que respecta al aprendizaje de niños y 
+adolescentes.						 
+         “El juego es algo esencial de la especie humana, la actividad lúdica es
+         tan antigua como la humanidad. El ser humano ha jugado siempre, en
+         todas las circunstancias y toda cultura, desde la niñez ha jugado más o
+         menos tiempo y a través del juego ha ido aprendiendo por tanto a vivir.
+         Me atrevería a afirmar que la identidad de un pueblo está fielmente
+         unida al desarrollo del juego, que a su vez es generador de cultura”.
+         (Moreno, 2002, p. 11). 
+
+Con el paso de la historia, el juego poco a poco ha cobrado vida, y ha empezado
+a entrar en la escuela. Se empieza a considerar como el medio lúdico por el que 
+los niños y las niñas pueden llegar a la adquisición de sus conocimientos. Como 
+se da en la explicación del modelo aristotélico, “El juego era una actividad 
+tolerada sólo como medio para atraer al niño a las ocupaciones serias o como 
+requerimiento para el descanso luego del trabajo” (Sarlé, 2006, p.35).							
+Tradicionalmente la enseñanza había tenido por misión preparar para funciones 
+tipo, para situaciones estables, para un momento de la existencia, para una 
+profesión determinada o un empleo dado, para absorber un saber convencional, 
+ancestralmente delimitado. Actualmente dentro del marco generado por los cambios
+generacionales y la implementación de nuevos planes y programas (NEM) para 
+llevar a cabo la enseñanza en educación primaria, se busca consolidar un 
+aprendizaje permanente en el alumnado el cual permita desarrollar habilidades y 
+destrezas que fortalezcan su participación dentro de una sociedad en constante 
+cambio. 
+
+**2.2.1 Tipos de aprendizaje dentro del aula.**
+
+Hoy en día existen diferentes maneras en las que se pueden adquirir 
+conocimientos en un contexto académico, estos se fundamentan en las diferentes 
+necesidades que exija el sujeto según sus individualidades. Hunt (1979) describe
+estilo de aprendizaje como “las condiciones educativas bajo las que un discente 
+está en la mejor situación para aprender, o qué estructura necesita el discente 
+para aprender mejor”. Basándonos en este concepto nos enfocaremos en los tipos 
+de aprendizaje utilizados en planes y programas de estudios pasados en la 
+educación mexicana.
+
+*2.2.1.1 Aprendizaje permanente.* 
+
+La educación permanente va ampliando o profundizando diferentes dimensiones, y 
+va  presentándose como un proyecto global. Es la idea de «proyecto global» 
+encaminado tanto a reestructurar el sistema educativo existente como a 
+desarrollar todas las posibilidades de formación fuera del sistema educativo. En
+este enfoque es fundamental el Informe a la UNESCO de la Comisión Internacional 
+sobre la Educación para el Siglo XXI, coordinado por Delors (1996), con sus 
+famosos cuatro pilares que deben ayudar a concebir la educación como un proceso 
+permanente a lo largo de toda la vida del individuo, y se proponen como la clave
+para entender la educación en el siglo XXI: aprender a conocer, aprender a 
+hacer, aprender a vivir juntos y con los otros y, en definitiva, aprender a ser.
+Una educación permanente que supere el concepto inicial de reciclaje profesional
+para intentar responder no solamente a una necesidad cultural, sino también, y 
+sobre todo, a una exigencia nueva, capital, de autonomía dinámica de los 
+individuos en una sociedad en constante cambio. La educación, sin compartimentar
+en el tiempo y en el espacio, se convertirá, así, en una dimensión de la vida 
+misma.
+
+*2.2.1.2 Aprendizaje significativo.* 
+
+El aprendizaje significativo es una teoría de un modelo de aprendizaje diseñado 
+principalmente por David Ausubel, Joseph Novak y Helen Hanesian, que son 
+especialistas en psicología de la educación. Según Vigotsky, el aprendizaje no 
+solo consta de una acumulación de conocimientos, sino que es el mismo 
+aprendiente, a través de su experiencia y de la interacción con los otros, el 
+que construye esos conocimientos y los adapta a los que ya tiene. Es decir, se 
+convierte en aprendizaje significativo. 
+Esta definición nos da una pauta determinante para entender el concepto 
+claramente, ya que, según la teoría para que nuestro aprendizaje sea 
+significativo depende del conocimiento previo que tiene el sujeto, el nuevo 
+conocimiento se empieza a construir a través de conceptos que el sujeto ya logra
+dominar. Nos introduce a la idea de que el conocimiento es una construcción de 
+los aprendizajes que recolectamos a lo largo de nuestra vida, Ballester nos dice
+que para un “auténtico aprendizaje, es decir un aprendizaje a largo plazo y que 
+no sea fácilmente sometido al olvido, es necesario conectar la estrategia 
+didáctica del profesorado con las ideas previas del alumnado y presentar la 
+información de manera coherente y no arbitraria, “construyendo”, de manera 
+sólida, los conceptos, interconectando los unos con los otros en forma de red 
+del conocimiento”. Nos hablan acerca de un aprendizaje a largo plazo tomando en 
+cuenta todo el bagaje que el estudiantado posee para formar un aprendizaje con 
+conceptos nuevos pero a su vez, incluyendo conocimientos ya adquiridos para 
+crear un aprendizaje integrador y difícil de olvidar.
+
+*2.2.1.3 Aprendizaje colaborativo.*
+
+Según varios investigadores los antecedentes del aprendizaje colaborativo vienen
+desde tiempos prehistóricos, ya que, la colaboración fue un aspecto necesario 
+para la supervivencia de la raza humana, "El hombre es un ser social por 
+naturaleza" es una frase del filósofo Aristóteles (384-322, a. de C.) para 
+constatar que nacemos con la característica social y la vamos desarrollando a lo
+largo de nuestra vida, ya que necesitamos de los otros para sobrevivir. 
+Por tanto, el aprendizaje colaborativo está centrado en la acción de socializar,
+compartir, aprender mutuamente el uno del otro, básicamente pone en primer lugar
+la interacción social para la construcción de aprendizajes.
+La teoría de Vigotsky recalca las relaciones sociales en los procesos de 
+aprendizaje, y argumenta que la construcción del conocimiento es un acto 
+individual y a la vez social. Los educandos construyen el conocimiento 
+individualmente y, al mismo tiempo, unos con otros; la ayuda que proporcionan 
+los otros, por ejemplo, el maestro, los hermanos, otros familiares, amigos, 
+incluso la televisión, la prensa, la computadora, es esencial para el 
+aprendizaje al actuar en la zona de desarrollo próximo (Océano, 1999).
+
+El aprendizaje se convierte en un proceso social donde no solo participa el 
+profesorado y estudiantado dentro de la escuela, también integra las 
+interacciones que el alumno tiene fuera del contexto escolar como la de sus 
+familiares, amigos, incluso medios de comunicación como redes sociales, 
+televisión, etc.
+
+Se basa en determinar metas específicas combinado con el trabajo en conjunto 
+para el logro de estas, de esta manera se puede decir que se ocasiona un 
+aprendizaje mutuo donde los estudiantes se apoyan entre sí logrando consolidar 
+los nuevos conocimientos a partir de un objetivo en común.
+
+**2.2.2 Aprendizaje permanente en la NEM.**
+
+ Según la SEMS (2019) Quienes son formados en la Nueva Escuela Mexicana emplean 
+ el pensamiento crítico gestado a partir de análisis, reflexión, diálogo, 
+ conciencia histórica, humanismo y argumentación fundada para el mejoramiento de
+ los ámbitos social, cultural y político. Asimismo, poseen capacidades que 
+ favorecen el aprendizaje permanente, la incorporación de métodos colaborativos 
+ e innovadores, avances tecnológicos e investigación científica y usan la 
+ libertad creativa para innovar y transformar la realidad en beneficio de una 
+ mejor distribución de la riqueza.
+ Las y los estudiantes formados en la NEM tienen el conocimiento y las 
+ capacidades para promover la transformación de la sociedad y asumen que una 
+ nación soberana tiene en el centro al conjunto de su población, en el contexto 
+ de la diversidad que la integra como nación y llevan a cabo acciones de 
+ transformación: en su organización, en la producción y en sus condiciones de 
+ bienestar.
+
+**2.2.3 Aprendizaje permanente a partir del uso de estrategias recreativas.**
+
+El desarrollo humano no siempre es una sensación agradable, implica sorprenderse
+con lo que el mundo puede ofrecer, requiere sacar lo que hay dentro de sí, para 
+luego adueñarse de sí y del mundo para amarse y dar un sí gratuito a la vida 
+para transformar la realidad. Las estrategias de enseñanza bajo la forma de 
+recreación, permiten crear lo nuevo, a través del juego se transforma el dolor 
+en posibilidad y festejo de la vida. La recreación es un medio para el 
+desarrollo humano porque: a) favorece crear un ambiente de aprendizaje relajado 
+y participativo. B) Combate el mal humor y la tristeza, se favorece la sorpresa,
+la risa, la diversión, además de provocar satisfacción y alegría.  c) Contribuye
+a salir del aislamiento y la apatía. d) Crea una posibilidad de contrarrestar la
+fatiga y el agotamiento (Bolaño, 2005 citado en Nieves 2017).
+Es decir, estas actividades son de mucha ayuda para los estudiantes, pues si 
+están bien el aprendizaje les servirá para la vida. La vivencia de actividades 
+recreativas ayuda a que las y los estudiantes se sientan realizados, se conozcan
+a sí mismos, se identifiquen como grupo, y además hace que se sientan 
+físicamente mejor porque reír y jugar los descansa, los ayuda a escaparse de la 
+rutina, a manejar la frustración y a recuperar el equilibrio de la vida, ante 
+tal experiencia se encuentra o se construye un sentido de vida (González, 2012 
+citado en Nieves 2017).
+
+**2.2.4 Competencias clave para el desarrollo del aprendizaje permanente.**
+
+Las competencias se definen como una combinación de conocimientos, capacidades y
+actitudes adecuadas al contexto. Las competencias clave son aquéllas que todas 
+las personas precisan para su realización y desarrollo personal, así como para 
+la ciudadanía activa, la inclusión social y el empleo. El marco de referencia 
+establece ocho competencias clave siguientes:
+
+ 1. Comunicación en la lengua materna; 
+ 2. Comunicación en lenguas extranjeras; 
+ 3.Competencia matemática y competencias básicas en ciencia y tecnología; 
+ 4. Competencia digital; 
+ 5. Aprender a aprender; 
+ 6. Competencias sociales y cívicas; 
+ 7. Sentido de la iniciativa y espíritu de empresa, y 
+ 8. Conciencia y expresión cultural. 
+ 
+Las competencias clave se consideran igualmente importantes, ya que cada una de 
+ellas puede contribuir al éxito en la sociedad del conocimiento. Muchas de las 
+competencias se solapan y entrelazan: determinados aspectos esenciales en un 
+ámbito apoyan la competencia en otro. La competencia en las capacidades básicas 
+fundamentales de la lengua, la lectura y la escritura, el cálculo y las 
+tecnologías de la información y la comunicación (TIC) constituyen el fundamento 
+esencial para el aprendizaje, mientras que todas las actividades de aprendizaje 
+se sustentan en la capacidad de aprender a aprender
+
+### 2.3 Campos formativos en la NEM.
+
+La Nueva Escuela Mexicana se integra por diferentes campos formativos los cuales
+son: Lenguajes, Saberes y Pensamiento Científico; Ética, Naturaleza y 
+Sociedades; y De lo Humano y lo Comunitario.
+
+- Lenguajes: los conocimientos van orientados al aprendizaje de Español, lenguas indígenas, lenguas extranjeras, lengua de señas mexicanas y también se vincula 
+con el arte como lenguaje de comunicación. 
+- Está pensado para que desarrollen la expresividad oral y escrita, además de la lectura y la escucha. 
+- Saberes y pensamiento científico: promueve el pensamiento crítico con el 
+acercamiento a conocimientos científicos a través de la exploración de procesos 
+naturales y sociales en diferentes contextos. Algunas de las materias son 
+matemáticas, biología, física y tecnología. 
+- Ética, naturaleza y sociedad: en este campo se fomenta el entendimiento y la 
+apertura al aprendizaje de otras sociedades, así como su estudio a través del 
+tiempo, con enfoques de respeto que enseñan principios de derechos humanos, 
+cultura de paz, entre otros.
+Algunas de las materias son Formación Cívica y Ética, Historia y Geografía. 
+- De lo humano a lo comunitario: desarrolla lo individual y las relaciones 
+interpersonales a través de la enseñanza de habilidades, actitudes y valores 
+para la construcción personal, valiéndose de la colaboración de la comunidad. 
+Algunas de las materias son Educación física y Educación Socioemocional. 
+
+**2.3.1 Propósito del campo formativo Saberes y Pensamiento Científico.**
+
+“Este campo formativo privilegia el desarrollo de una actitud científica fundada
+en una forma de cuestionar, indagar, pensar e interpretar los fenómenos y 
+procesos naturales y sociales en distintos contextos, desde la perspectiva de la
+ciencia escolar”. (SEP 2022). 
+Lo que plantea es que los estudiantes desarrollen el interés por el medio que 
+los rodea, causando curiosidad en ellos y logrando así que investiguen, 
+experimenten, etc. Se aborda también el pensamiento matemático en este campo.
+
+**2.3.2 El aprendizaje permanente en el campo formativo Saberes y Pensamiento Científico.**
+
+Según SEP (2022) La fase 5 representa un puente entre la primaria y la 
+secundaria, por lo que es importante que se consoliden procesos que serán la 
+base para la fase 6, de manera que se amplía el desarrollo de procesos 
+científicos y matemáticos para indagar, argumentar y explicar; también se busca 
+fortalecer actitudes como la colaboración, la apertura a nuevas ideas, la 
+perseverancia, el escepticismo informado, así como los valores de empatía, 
+solidaridad, respeto y responsabilidad.
+En esta fase del Campo de Saberes y Pensamiento Científico, las y los 
+estudiantes continuarán de manera organizada y sistemática desarrollando 
+habilidades para observar, cuestionar, clasificar, comparar, ordenar, analizar, 
+describir, relacionar, inducir, verificar, conjeturar y registrar, además de 
+fortalecer actitudes y valores indispensables para relacionarse con la 
+naturaleza y la sociedad de una forma armónica y respetuosa, siendo sustento 
+para el pensamiento científico y el pensamiento matemático.
+Se pretende que las y los estudiantes comprendan la relación vital de 
+interdependencia entre los seres humanos y la naturaleza, así como la relevancia
+de fortalecer prácticas, actitudes y valores que fomenten el respeto, cuidado y 
+protección de ésta a partir de su propio contexto sociocultural.
+
+**2.3.3 Estrategias recreativas aplicadas en el campo formativo Saberes y Pensamiento Científico.**
+
+SEP (2022) Fundamentalmente a partir de una intervención docente que propicie 
+ambientes de aprendizaje en los que niñas y niños intercambien ideas, compartan 
+sus saberes, confronten y argumenten sus puntos de vista, formulen resultados 
+con distintos medios, validen sus propias conjeturas, interactúen y dialoguen 
+para modificar o reafirmar sus ideas y modelos iniciales.
+Asimismo, que reconozcan cuál o cuáles procedimientos son más eficaces, 
+generalicen un procedimiento de resolución y participen en la búsqueda de 
+información de manera crítica y selectiva para la toma de decisiones 
+fundamentadas, individuales y colectivas.
+Secuenciar el conocimiento e integrarlo en juegos, proyectos o actividades del 
+grupo queda al criterio del profesorado y a las necesidades de aprendizaje de 
+niñas, niños y adolescentes.
+
+
+## Marco metodológico
+
+### 3.1 Método
+
+En este trabajo acerca de las “Estrategias recreativas empleadas por el 
+profesorado, que favorecen el aprendizaje permanente en el campo formativo: 
+Saberes y Pensamiento Científico en 5º grado de educación primaria.”, de acuerdo
+al tema que maneja nuestra investigación se llegó a la conclusión de que nuestro
+enfoque sea cualitativo, ya que, nos enfocamos en las experiencias del 
+profesorado.
+Esto con base en lo que nos describen varios autores, entre ellos, Taylor y 
+Bogdan (1987), citados por Blasco y Pérez (2007) al referirse a la metodología 
+cualitativa como un modo de encarar el mundo empírico, señalan que en su más 
+amplio sentido es la investigación que produce datos descriptivos: las palabras 
+de las personas, habladas o escritas y la conducta observable.	
+
+### 3.2 Enfoque
+
+Conforme a nuestro método utilizado para la investigación, el enfoque utilizado fué el descriptivo en donde gracias a él podremos llegar a encontrar los mejores resultados para nuestra investigación. Como menciona Guevara (2020)., “El objetivo de la investigación descriptiva consiste en llegar a conocer las situaciones, costumbres y actitudes predominantes a través de la descripción exacta de las actividades, objetos, procesos y personas”. Gracias a nuestro enfoque nosotros como investigadores podremos describir los resultados encontrados con nuestro instrumento de investigación.
+
+
+### 3.3 Alcance
+
+De acuerdo a nuestro tema de investigación se investigarán las estrategias 
+recreativas que se aplican a favor del aprendizaje permanente dentro del campo 
+formativo; Saberes y Pensamiento Científico de parte del profesorado de quinto 
+grado de primaria, con instrumentos de enfoque cualitativo, que nos permitirán 
+recopilar información acerca de la aplicación de dichas estrategias y el impacto 
+que tiene en los alumnos.
+Para lograr los objetivos planteados aplicamos una encuesta que, Según Tamayo y 
+Tamayo (2008), la encuesta “es aquella que permite dar respuestas a problemas en términos descriptivos como de relación de variables, tras la recogida sistemática de información según un diseño previamente establecido que asegure el rigor de la información obtenida”.
+
+### 3.4 Participantes
+
+En la presente investigación se contempló la participación del profesorado de las escuelas primarias de prácticas que se nos asignaron en el Semestre “A” de la Licenciatura en Educación Primaria de la Benemérita Escuela Normal Veracruzana  “Enrique C. Rébsamen”, las cuales son “Lázaro Cárdenas del Río” y “Emiliano Zapata”, mismos que son titulares del grado de 5° de primaria.
+
+### 3.5 Muestra
+
+La población muestra contemplada para la investigación es un maestro y una 
+maestra de 5° de primaria de la escuela “Lázaro Cárdenas del Río” ubicada en el 
+municipio de Banderilla, y dos maestras de 5° de primaria de la escuela “Emiliano
+Zapata” ubicada en Xalapa, ambas pertenecientes al estado de Veracruz.
+
+### 3.6 Instrumentos
+
+Instrumento Guión de entrevista, Técnica Entrevista.
+
+**3.6.1 Elaboración.**
+
+La técnica empleada para llevar a cabo la investigación, tomando en cuenta el 
+método cualitativo, fué la entrevista, utilizando como instrumento un guión de 
+entrevista con el propósito de generar un diálogo entre el investigador y el 
+informante, en este se utilizaron un total de 9 preguntas abiertas relacionadas 
+con el tema de investigación, por medio de estas podremos recabar elementos 
+relevantes para nuestra investigación como la perspectiva del profesorado ante el
+uso de estrategias recreativas dentro del aula, así como el enfoque del 
+aprendizaje permanente y otros aspectos como los cambios que ellos notan en sus 
+alumnos en caso de implementar actividades con este tipo de estrategias.
+
+**3.6.2 Validación de instrumentos.**
+
+Para la validación del instrumento se solicitó el apoyo a un maestro 
+perteneciente de la casa de estudios la Benemérita Escuela Normal Veracruzana 
+“Enrique C. Rébsamen”, el cuál revisó todas las preguntas que diseñamos e hizo 
+correcciones y retroalimentó de acuerdo a una perspectiva de crítica 
+constructiva, posteriormente se hicieron los debidos cambios que nos fueron 
+señalados para que el instrumento fuera validado completamente.
+
+**3.6.3 Pilotaje.**
+
+El pilotaje se llevó a cabo con maestros de 5 grado de primaria, pertenecientes a
+la Escuela Primaria Frida Kahlo, esta se encuentra ubicada dentro del estado de 
+Veracruz en el municipio de Medellín, Lagos de Puente Moreno, la clave de la 
+escuela corresponde a 30EPR3977Q. Este pilotaje se realizó el día viernes 24 de 
+noviembre del 2023 a distancia por medio de la plataforma de Google forms, con el
+propósito de observar las respuestas del profesorado y analizar si se lograba 
+reunir la información deseada para cumplir los objetivos de la investigación.
+
+**3.6.4 Aplicación.**
+
+Para la aplicación se le solicitó por medio de mensaje a la directora del plantel
+la participación de 5 maestros frente a grupo de 5° grado, se le informó que 
+sería una encuesta cuyas respuestas serían utilizadas para el desarrollo de una 
+investigación de parte de estudiantes de la licenciatura en Educación Primaria de
+la BENV. La directora se encargó de difundir el instrumento a los docentes 
+participantes y posteriormente nos llegaron las respuestas.	
+
+### 3.7 Análisis de resultados
+
+Después de aplicar el instrumento para recabar la información, fue momento de 
+analizar los resultados correspondientes. Se realizó una transcripción de las 
+respuestas de la entrevista, asignando claves a cada uno de los participantes y 
+concentrando la información en tablas, la cual nos permitió sistematizar de 
+manera más rápida y eficiente los datos (ver apéndices).
+
+Los ítems en cuestión fueron divididos en tres categorías; Las estrategias 
+recreativas en el aula, el aprendizaje permanente desde la perspectiva del 
+profesorado y  las estrategias recreativas dentro del Campo Formativo: Saberes y 
+Pensamiento Científico, que usa el profesorado.
+
+La finalidad del ítem 1 fue conocer el concepto que el profesorado tiene sobre 
+las estrategias recreativas, mientras que el ítem 2 buscaba conocer cuáles son 
+las estrategias recreativas que usa el profesorado, del mismo modo el ítem 3 se 
+enfocó en conocer cómo benefician estas estrategias recreativas a los alumnos.
+
+El segundo apartado abarca el ítem 4 el cual tuvo como finalidad conocer el 
+concepto de aprendizaje permanente, los ítems 5 y 6 se enfocan a los beneficios 
+que trae consigo dicho concepto.
+
+El último apartado abarca del ítem 7 al 9, ya que en ellos se centran las 
+estrategias recreativas dentro de la NEM y el campo formativo en cuestión.
+
+## Paqueterías
+
+Se utilizaron las siguientes paqueterías para la elaboración de las nubes de
+palabras:
+
+- tidytext
+- dplyr
+- wordcloud
+- csv
+
+## Resultados
+
+En el capítulo presente se expondrán los resultados de la encuesta aplicada a los
+docentes de 5° de primaria pertenecientes a las escuelas primarias “Lázaro 
+Cárdenas del Río” y “Emiliano Zapata”, aplicado mediante una plataforma digital 
+donde pudimos recabar todas las respuestas de los maestros participantes. El 
+propósito de este apartado es presentar la información recabada acerca de la 
+percepción del profesorado acerca del uso de estrategias recreativas dentro del 
+salón de clases.
+
+Para lograr el objetivo planteado de la investigación se realizaron 11 preguntas,
+las cuales podemos describir en las siguientes categorías: datos personales, las 
+estrategias recreativas dentro del aula, el aprendizaje permanente desde la 
+perspectiva del profesorado, cómo favorece el aprendizaje permanente a los 
+alumnos y por último, las estrategias recreativas que usa el profesorado.
+
+Las respuestas corresponden a docentes que imparten el grado de 5° grado, se 
+consideró a 4 docentes pertenecientes a las escuelas donde se realizaron las 
+jornadas de prácticas, respecto a la edad de los participantes están en un rango 
+entre 31-55 años de edad, tuvimos una variedad respecto a las edades, ya que 
+contamos con maestros de 30, 40 y 50 años por lo que nos da una diversidad 
+respecto a las perspectivas en la educación de múltiples generaciones.
+Debido a las edades de los encuestados los años en servicio son muy variados, 
+tenemos que el menor tiempo en servicio es de 9 años y el mayor de 23 años, una 
+vez más, esto nos sirve para tener diferentes puntos de vista acerca del uso y 
+aplicación de estrategias recreativas dentro del salón de clases, incluso del 
+tipo de actividades que se implementan, ya que, unos maestros utilizan 
+estrategias tecnológicas innovadoras, mientras que otros maestros implementan 
+estrategias o juegos que la mayoría conocemos y no necesitan de elementos 
+tecnológicos para su aplicación dentro del aula.
+
+### 4.1 Categoría 1. Las estrategias recreativas en el aula.
+
+Cuando se les preguntó a los docentes su opinión personal respecto a lo que eran 
+las estrategias recreativas, la mayoría coincide en un término en específico, 
+analizando las respuestas MJLO5ALC nos dice que “Son actividades que incluyen 
+aspectos lúdicos y recreativos, utilizados para favorecer los aprendizajes en los
+alumnos.”, así mismo MELAL5BEM nos comenta que son “Actividades lúdicas para el 
+logro de los aprendizajes; promoviendo la participación de todos los alumnos.”, 
+de igual manera MSAT5CEM nos dice que “Son aquel tipo de actividades que implican
+actividades lúdicas.”, la única respuesta que no incluía este término de 
+actividades lúdicas fue la de MBIGM5CLC que expresa, “Las estrategias que ayudan 
+a los niños a sentirse motivados por el aprendizaje”, sin embargo toca un tema 
+muy importante dentro de las metas de las estrategias recreativas que es la 
+motivación, sin embargo, exploremos qué nos dice Candela y Benavides  (2020) “Las
+actividades lúdicas llevadas al aula se convierten en una herramienta estratégica
+introduciendo al niño al alcance de aprendizajes con sentido en ambientes 
+agradables de manera atractiva y natural desarrollando habilidades.”, las 
+actividades lúdicas provocan en el alumno sensaciones motivadoras, innovadoras, 
+de interés, captan su atención para así poder adquirir los conocimientos 
+deseados.
+
+Por otra parte, recopilamos las estrategias recreativas que el profesorado 
+utiliza actualmente dentro de su salón de clases, MJLO5ALC comenta “El uso del 
+juego como actividad didáctica me ha funcionado mucho. Adapto las actividades a 
+algún juego conocido por los alumnos, por ejemplo: la papa caliente.”, MELAL5BEM 
+comparte “La oca ; la cuál se puede utilizar en varios campos formativos, 
+"adivina quién", la ruleta.”, MBIGM5CLC expresa que “Las actividades lúdicas, 
+experimentos y trabajos manuales, como maquetas”, por último tenemos a MSAT5CEM 
+que comenta “El Basta, memoramas, lotería, rally, etc”, como podemos observar se 
+toman en cuenta los trabajos manuales dentro del salón, dejando un poco de lado 
+la implementación de tecnologías en el aula, sin embargo, si hacen uso de 
+estrategias recreativas para motivar la curiosidad e interés en el alumnado.
+
+Tenemos que los beneficios que los maestros han observado en sus alumnos a partir
+de la implementación de estas estrategias son variadas, por ejemplo MJLO5ALC nos 
+dice que “Los aspectos que se favorecen son: el aspecto social, emocional y 
+académico sobre todo.”, las actividades con esta perspectiva nos permite 
+estimular y desarrollar varios aspectos en la vida del alumno y no solamente el 
+académico, MELAL5BEM nos dice que “En lo humanitario y actividades que son parte 
+de la vida cotidiana.”, MBIGM5CLC comenta “Se sienten más motivados a trabajar y 
+por lo mismo a aprender”,  en cambio MSAT5CEM expresa que “En la participación e 
+inclusión de todos los alumnos.” Analizando podemos observar que un aspecto que 
+es de suma importancia para la aplicación de las estrategias, que es la 
+participación de todo el grupo, que todos se incluyan dentro de la dinámica de 
+trabajo para que puedan ir a un ritmo parecido.
+
+### 4.2 Categoría 2. El aprendizaje permanente desde la perspectiva del profesorado.
+
+Se les preguntó a los docentes acerca de su perspectiva personal respecto al 
+concepto de aprendizaje permanente, MJLO5ALC comenta “Es un proceso continuo de 
+adquisición, descubrimiento o construcción del conocimiento.”, el maestro 
+MELAL5BEM expresa que “El aprendizaje en todo momento, si importar que sea un 
+aprendizaje formal.”, por otro lado tenemos a MBIGM5CLC “Es el conjunto de 
+habilidades para aprender a través del tiempo.”, por último MSAT5CEM comenta que 
+“El aprender algo cada día; no sólo se limita a la escuela.”, una idea recurrente
+es el aprendizaje continuo, hace referencia a que la formación nunca termina y 
+todos los días podemos seguir aprendiendo cosas nuevas, de igual manera otra idea
+es acerca de los conocimientos no adquiridos en el espacio escolar si no en el 
+día día adquirimos conocimientos menos formales, pero igual de importantes y 
+esenciales para la vida cotidiana.
+
+Tenemos que en los beneficios que trae consigo el aprendizaje permanente dentro 
+del aula se puede observar que en las entrevistas lo que sobresale es la relación
+que se le da al aprendizaje permanente, con el que se pueda aplicar el 
+conocimiento en el contexto inmediato de los alumnos, como nos menciona MSAT5CEM 
+“El aprendizaje permanente se favorece con actividades que se asemejen a 
+actividades o problemas de su vida cotidiana, además se busca utilizar 
+actividades que se relaciones directamente con su contexto lo que genera que los 
+alumnos relacionen su aprendizaje con aspectos de su vida diaria, de igual manera
+se nos mencionó “Enseñando que pueden aprender de todo lo que les rodea”, así 
+también nos menciona MELAL5BEM que “Por ejemplo uno es el leer, este aprendizaje 
+permanente no se olvidará al contrario se refuerza y esto el demostrar y 
+aplicarlos son pequeñas metas”
+Por su parte MJLO5ALC nos expresa “Enseñar una cultura de auto aprendizaje 
+constante en los alumnos, así como despertar en los alumnos la curiosidad 
+permanente a la investigación sobre lo que les llama la atención”, lo cual 
+podemos interpretar como que en lo que favorece el aprendizaje permanente es en 
+la autonomía y la curiosidad de los alumnos. 
+
+Por su parte todo el profesorado está de acuerdo con que las estrategias 
+recreativas favorecen el aprendizaje permanente dentro del aula.
+
+### 4.3 Categoría 3. Las estrategias didácticas dentro del Campo Formativo: Saberes y pensamiento Científico, que usa el profesorado.
+
+Se les preguntó cuáles eran las estrategias recreativas que propone la NEM, por 
+su parte MJLO5ALC comenta “Considero que la indagación, y la experimentación por 
+medio de la integración de las artes y el fortalecimiento del espectro 
+socioemocional”,  MELAL5BEM mencionan “La mayoría es experimentos, investigar o 
+hacer trabajos fuera de la escuela” , por su parte MBIGM5CLC  comenta “Trabajar 
+los proyectos por medio de los la estrategia del método científico” así, 
+finalmente MSAT5CEM nos menciona “La NEM propone estrategias recreativas que se 
+relaciones con su contexto en este caso la comunidad escolar y la comunidad 
+social, es difícil identificar como tal algunas estrategias en específico ya que 
+los temas se relacionan y las actividades son variadas”.
+
+En relación, a si los participantes consideran pertinentes las estrategias que 
+propone la NEM, todos consideran, que solo algunas de estas estrategias, por 
+ejemplo MJLO5ALC nos menciona “Algunas, considero, que también es de importancia 
+retomar aspectos que requieren mayor trabajo como los que hacen referencia a la 
+lectura de comprensión y desarrollo del pensamiento matemático., por su parte 
+MSAT5CEM dice “Si, yo creo que el hecho de que las actividades realizadas por los
+alumnos se relacionen con su comunidad y su contexto hace que se vuelvan más 
+importantes para ellos y que realmente tengan un significado en su vida.
+Finalmente se hizo la pregunta de cuáles serán las estrategias recreativas que 
+usarán a lo que nos respondió MJLO5ALC, “Uno de los aspectos para mí, sería 
+retomar la tecnología educativa, ya en un tiempo se trata de implementar por 
+medio de las aulas de medios o equipos de Enciclomedia, aspectos que no se les 
+día a opinión personal la importancia y que no se dió seguimiento como es 
+debido”, por su parte MELAL5BEM considera que “Matemáticas y ser consciente a los
+niños del uso para poder emplearla” .MBIGM5CLC, considera que la experimentación 
+y finalmente  MSAT5CEM menciona  “Actividades más prácticas donde se pueda 
+observar más dinámicamente los contenidos.”
+
+
+## GRÁFICOS NUBE DE PALABRAS ##
+
+Figura 1. Nube de palabras, frecuencia de palabras que más se repiten en 
+la pregunta 1.
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+install.packages("tidytext")
+```
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+library(tidytext)
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+install.packages("wordcloud")
+```
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+library(wordcloud)
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+install.packages("dplyr")
+```
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+library(dplyr)
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+install.packages("csv")
+```
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+library(csv)
+```
+
+```{r,echo=FALSE, warning=FALSE, message=FALSE}
+install.packages("RColorBrewer")
+library(RColorBrewer)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos1<-read.csv("pregunta1.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words1<-read.csv("stop_words1.csv")
+```
+
+
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq1 <- textos1 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words1, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq1$word,
+          freq = word_freq1$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 2. Nube de palabras, frecuencia de palabras que más se repiten en 
+la pregunta 2.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos2<-read.csv("pregunta2.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words3<-read.csv("stop_words3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq2 <- textos2 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words3, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq2$word,
+          freq = word_freq2$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 3. Nube de palabras, frecuencia de palabras que más se repiten en 
+la pregunta 3.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos3<-read.csv("pregunta3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words<-read.csv("stop_words.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq3 <- textos3 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq3$word,
+          freq = word_freq3$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 4. Nube de palabras, frecuencia de palabras que más se repiten en
+la pregunta 4.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos4<-read.csv("pregunta4.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words3<-read.csv("stop_words3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq4 <- textos4 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq4$word,
+          freq = word_freq4$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 5. Nube de palabras, frecuencia de palabras que más se repiten en
+la pregunta 5.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos5<-read.csv("pregunta5.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words3<-read.csv("stop_words3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq5 <- textos5 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq5$word,
+          freq = word_freq5$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 6. Nube de palabras, frecuencia de palabras que más se repiten en
+la pregunta 6.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos6<-read.csv("pregunta6.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words3<-read.csv("stop_words3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq6 <- textos6 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq6$word,
+          freq = word_freq6$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 7. Nube de palabras, frecuencia de palabras que más se repiten en
+la pregunta 7.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos7<-read.csv("pregunta7.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words3<-read.csv("stop_words3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq7 <- textos7 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq7$word,
+          freq = word_freq7$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 8. Nube de palabras, frecuencia de palabras que más se repiten en
+la pregunta 8.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos8<-read.csv("pregunta8.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words3<-read.csv("stop_words3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq8 <- textos8 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq8$word,
+          freq = word_freq8$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+Figura 9. Nube de palabras, frecuencia de palabras que más se repiten en
+la pregunta 9.
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+textos9<-read.csv("pregunta9.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+stop_words3<-read.csv("stop_words3.csv")
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+word_freq9 <- textos9 %>%
+  unnest_tokens(output = word,
+                input = texto,
+                token = "words",
+                format = "text") %>%
+  anti_join(stop_words, by = c("word" = "texto")) %>%
+  count(word)
+```
+
+```{r,message=FALSE, echo=FALSE, warning=FALSE}
+wordcloud(words = word_freq9$word,
+          freq = word_freq9$n,
+          min.freq = 1,
+          max.words = 20,
+          colors =  c("blueviolet","cyan3", "deeppink"),
+          random.order = F,
+          random.color = F,
+          scale = c(2 ,0.2),
+          rot.per = 0.2)
+```
+
+## Conclusiones
+
+Por medio del presente trabajo de indagación se identificaron las experiencias y perspectivas que tienen los docentes de 5to grado de las escuelas primarias “Emiliano Zapata” y “Lazaro Cardenas”, sobre las estrategias recreativas utilizadas dentro del campo formativo: Saberes y pensamiento científico y cómo a través de las mismas se puede llegar al aprendizaje permanente por parte del alumnado de dicho grado. 
+
+  Para dar inicio al trabajo de indagación y después de realizar un análisis colaborativo sobre algunas problemáticas que aquejan a la educación primaria después de la puesta en marcha del actual plan de estudio denominado: “La nueva escuela mexicana”, se delimitó el siguiente problema de investigación: Falta de conocimiento acerca de estrategias recreativas empleadas por el profesorado que favorezcan el aprendizaje permanente en el campo formativo: saberes y pensamiento científico en 5to grado de educación primaria.                                                                                                                    
+
+Posteriormente se establecieron los objetivos tanto generales como específicos, con la finalidad de guiarnos en la elaboración de este documento, a su vez de cada uno de los objetivos específicos se generó una pregunta que se desarrolló en capítulos posteriores del documento.                                    El objetivo general nos invita al análisis de los aspectos tanto teoricos como practicos del uso de estrategias creativas por el profesorado dentro del campo formativo saberes y pensamiento científico  y que buscan orientar a los alumnos hacia el aprendizaje permanente dentro del aula, partiendo desde la recopilación y análisis de datos sobre las reflexiones de los docentes al aplicar el  nuevo plan de estudios denominado  “La nueva escuela mexicana” por parte de los docentes de 5to grado de las escuelas primarias Lazaro Cardenas y emiliano Zapata.     																			   Se realizó una guía de entrevista como instrumento de investigación, la cual nos ayudó a recopilar los conocimientos y experiencias del profesorado, sobre las estrategias recreativas utilizadas durante su práctica docente.
+
+A través de esta investigación pudimos recopilar las estrategias más utilizadas por el profesorado dentro del salón de clases, a su vez pudimos conocer los beneficios que estas actividades tienen en el proceso de aprendizaje de los alumnos.
+
+El trabajar de forma colaborativa para la realización de este proyecto, en este caso reunidos como academia de 5to grado de las escuelas primarias de práctica, nos permitió tener un panorama más amplio y poder contrastar las experiencias obtenidas así como los datos recabados, sin embargo debemos mencionar que trabajar en equipo no es una tarea fácil, ya que implica una organización tanto de los tiempos, como de los contenidos. Uno de los retos a los que nos enfrentamos, fué el de aplicar habilidades de imdagación, la interpretación, la discriminación de información, la redacción y la argumentación.
+
+Consideramos que elaborar este trabajo de forma colaborativa sin duda alguna nos permitió adquirir experiencia, nuevas habilidades y conocimientos, como lo son la responsabilidad, capacidad organizativa, formación docente, así como para seguirnos formando posteriormente.
+
+
+## Referencias
+
+Ausubel, D. P. Novak, J. D., Hanesian, H. (1983): “Psicología educativa. Un punto
+de vista cognoscitivo”. Trías Ed., México. 
+
+Ballester, A (2002). “El aprendizaje significativo en la práctica. Cómo hacer el 
+aprendizaje significativo en el aula”. Depósito legal PM 1838-2002. 
+www.pensamientoestrategico.com. 
+
+Briceño, Y. (s. f.). EL USO DE LA TECNOLOGÍA DE LA INFORMACIÓN EN LOS PROCESOS DE
+CAPACITACIÓN LABORAL EN LOS MEDIOS DE COMUNICACIÓN IMPRESOS DEL ESTADO TRUJILLO. 
+https://www.redalyc.org/journal/5530/553066097005/#:~:text=Seg%C3%BAn%20Tamayo%20
+y%20Tamayo%20(2008,rigor%20de%20la%20informaci%C3%B3n%20obtenida%E2%80%9D.
+
+Candela, Y., y Benavides, J. (2020). Actividades lúdicas en el proceso de 
+enseñanza-aprendizaje de los estudiantes de la básica superior. Rehuso, 5(3), 
+78-86. Recuperado de: 
+https://revistas.utm.edu.ec/index.php/Rehuso/article/view/1684 
+
+Franco, A., and P. Simeoli. 2019. “Un Enfoque Basado En Juegos Educativos Para 
+Aprender Geometría En Educación Primaria: Estudio Preliminar.” Educação e 
+Pesquisa 45.
+
+García, Luis Alejandro Palacio, Isabel Saravia Martínez, and María Alejandra 
+Vesga Cediel. 2017. “Juegos En El Salón de Clase: El Mercado de Los Limones.” 
+Revista de Economia Institucional 19(36):291–311.
+
+Moreno, J. (2002). Aproximación teórica a la realidad del juego. Aprendizaje a 
+través del juego. Ediciones Aljibe.
+
+Nieves (2017) Recreación: Estrategia de enseñanza-aprendizaje para el desarrollo 
+humano.
+
+Océano (1999). Enciclopedia General de Educación. España.
+Sarlé, P. (2006). Enseñar el juego y jugar la
+enseñanza. Buenos Aires: Paidós.
+
+Secretaria de Educación Pública (2011). Plan de estudios. Educación Básica 
+.México, SEP
+
+Secretaria de Educación Pública (2017). Plan de estudios. Educación Básica 
+.México, SEP
+
+Secretaría de Educación Pública (2022). Plan de estudios para educación 
+preescolar, primaria y secundaria.  SEP: México
+
+SEMS (2019) La Nueva Escuela Mexicana: principios y orientaciones pedagógicas. 
+https://dfa.edomex.gob.mx/sites/dfa.edomex.gob.mx/files/files/NEM%20principios%20
+y%20orientacio%C3%ADn%20pedago%C3%ADgica.pdf
+
+
+
+
